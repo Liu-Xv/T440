@@ -21,3 +21,4 @@ d = dict.fromkeys(s, 0)
 for i in s:
     d[i] = str_list.count(i)
 print(d)
+//add one insertions
